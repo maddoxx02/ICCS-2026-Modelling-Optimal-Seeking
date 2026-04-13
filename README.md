@@ -14,3 +14,4 @@
 Exerpt evaluation of Process models in survey 
 
 ![Evaluation](Figures\Survey_Evaluation.gif)
+![Evaluation](https://github.com/maddoxx02/ICCS-2026-Modelling-Optimal-Seeking/blob/main/Figures/Survey_Evaluation.gif)
